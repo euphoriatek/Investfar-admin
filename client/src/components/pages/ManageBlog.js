@@ -461,7 +461,7 @@ class ManageCategory extends Component {
             file: null,
             filePath: '',
             id: '',
-            blog_status: 'active';
+            blog_status: 'active'
         });
         document.getElementById("blog_model").click();
     }
@@ -504,8 +504,8 @@ class ManageCategory extends Component {
             a hidden href = "#"
             id = "blog_model"
             class = "thamebtn"
-            data - toggle = "modal"
-            data - target = "#addBlog" > Add Blog Back < /a> <
+            
+             > Add Blog Back < /a> <
             /div> <
             /div> <
             /div> {
