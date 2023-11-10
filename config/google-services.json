@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "328462702651",
+    "firebase_url": "https://investfar-b494a.firebaseio.com",
+    "project_id": "investfar-b494a",
+    "storage_bucket": "investfar-b494a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328462702651:android:861f4a9f7c38396485641e",
+        "android_client_info": {
+          "package_name": "com.appfrontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328462702651-945267bs1fugmr1eggqvkr5pk6f0couo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxs8zgKmAeq7KkwmdULXQVhu1I9DayJl4"
+        },
+        {
+          "current_key": "AIzaSyDrPm2dNUTtzhdOGdTnc7HLBXhQhdzbhxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328462702651-945267bs1fugmr1eggqvkr5pk6f0couo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328462702651-dv1fdcnkp2t4ifbvfkfpmjn4kh2je27b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.investfar.la"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:328462702651:android:0d3ebf4a0c4a22af85641e",
+        "android_client_info": {
+          "package_name": "com.investfar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "328462702651-uiuo4qj5pbbv8dn2loko5j112gv4eqn0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.investfar",
+            "certificate_hash": "953293309b450eb308bb27779bd4156a5540c173"
+          }
+        },
+        {
+          "client_id": "328462702651-945267bs1fugmr1eggqvkr5pk6f0couo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxs8zgKmAeq7KkwmdULXQVhu1I9DayJl4"
+        },
+        {
+          "current_key": "AIzaSyDrPm2dNUTtzhdOGdTnc7HLBXhQhdzbhxE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "328462702651-945267bs1fugmr1eggqvkr5pk6f0couo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "328462702651-dv1fdcnkp2t4ifbvfkfpmjn4kh2je27b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.investfar.la"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
